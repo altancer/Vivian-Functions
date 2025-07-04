@@ -1,0 +1,41 @@
+{
+    "Elements": [
+        {
+            "Type": "Screen",
+            "Name": "Bildschirm",
+            "Plane": {
+                "x": 0,
+                "y": -1,
+                "z": 0
+            },
+            "Resolution": {
+                "x": 2000,
+                "y": 1200
+            }
+        },
+        {
+            "Type": "Particles",
+            "Name": "WasserSimulation1"
+        },
+        {
+            "Type": "Particles",
+            "Name": "EisSimulation1"
+        },
+        {
+            "Type": "Particles",
+            "Name": "EisSimulation2"
+        },
+        {
+            "Type": "Particles",
+            "Name": "EisSimulation3"
+        },
+        {
+            "Type": "Particles",
+            "Name": "SaftSimulation"
+        },
+        {
+            "Type": "Particles",
+            "Name": "SpezialSimulation"
+        }
+    ]
+}

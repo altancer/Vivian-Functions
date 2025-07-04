@@ -1,0 +1,41 @@
+{
+    "Elements": [
+        {
+            "Name": "Bildschirm",
+            "Type": "TouchArea",
+            "Plane": {
+                "x": 0,
+                "y": -1,
+                "z": 0
+            },
+            "Resolution": {
+                "x": 2000,
+                "y": 1200
+            }
+        },
+        {
+            "Name": "Glas-Cocktail",
+            "Type": "Movable",
+            "InitialAttributeValues": [
+                {
+                    "Attribute": "POSITION",
+                    "Value": "(-0.488,0.9916,1.935)"
+                },
+                {
+                    "Attribute": "ROTATION",
+                    "Value": "(0,0,0)"
+                }
+            ],
+            "SnapPoses": [
+                
+                { "Position": "(0,1.1,1.966)", "Rotation": "(0,0,0)" },  
+                { "Position": "(0.135,1.1,1.966)", "Rotation": "(0,0,0)" },  
+                { "Position": "(-0.135,1.1,1.966)", "Rotation": "(0,0,0)" },
+                { "Position": "(0.213,1.1,1.966)", "Rotation": "(0,0,0)" },  
+                { "Position": "(0.213,1.1,1.966)", "Rotation": "(0,0,0)" },  
+                { "Position": "(0.213,1.1,1.966)", "Rotation": "(0,0,0)" }    
+                
+            ]
+        }
+    ]
+}
